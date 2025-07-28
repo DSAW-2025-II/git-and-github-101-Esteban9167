@@ -8,6 +8,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:** Esteban Sequeda Henao
-- **ID de la Universidad:** 0000328378
-- **Usuario de Github:** Esteban9167
+- **Nombre completo: Esteban Sequeda Henao**
+- **ID de la Universidad: 0000328378**
+- **Usuario de Github: Esteban9167**
